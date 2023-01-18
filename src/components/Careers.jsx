@@ -2,7 +2,7 @@ import React from 'react'
 
  const Careers = () => {
   return (
-    <div>Careers</div>
+    <div>Aqui va Careers</div>
   )
 }
 export default Careers;

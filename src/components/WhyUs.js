@@ -2,7 +2,7 @@ import React from 'react'
 
  const WhyUs = () => {
   return (
-    <div>WhyUs</div>
+    <div>Aqui va WhyUs</div>
   )
 }
 export default WhyUs;

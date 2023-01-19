@@ -7,3 +7,8 @@ export const Home = () => {
     </div>
   )
 }
+<<<<<<< HEAD:src/components/Home.jsx
+=======
+export default Home;
+
+>>>>>>> main:src/components/Home.js

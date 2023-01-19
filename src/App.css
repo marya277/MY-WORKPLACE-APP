@@ -1,4 +1,16 @@
 .App {
   text-align: center;
+
 }
+
+.login{
+ 
+  width: 120px;
+  height: 40px;
+  border-radius: 20px;
+  font-size: 18px;
+  letter-spacing: 1px;
+  font-weight: 200;
+}
+
 

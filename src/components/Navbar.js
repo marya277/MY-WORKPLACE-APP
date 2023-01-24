@@ -1,7 +1,7 @@
 import {  NavLink } from 'react-router-dom';
 import Logo from '../assets/img/jobs_logo.png';
 
-const Navbar = () => {
+const Navbar = ({logged}) => {
     return (
         <div className='container-fluid ' >
 
@@ -12,9 +12,9 @@ const Navbar = () => {
                     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
-
                     <div className="collapse navbar-collapse" id="navbarCollapse">
 
+                    {logged === 'candidate' || logged === 'referrals' ?
                         <div className="navbar-nav mx-lg-auto">
                             <NavLink className="nav-item nav-link" to="/Home" >     Inicio   </NavLink>
                             <NavLink className="nav-item nav-link" to="/Services">  Services </NavLink>
@@ -22,8 +22,13 @@ const Navbar = () => {
                             <NavLink className="nav-item nav-link" to="/About">     About    </NavLink>
                             <NavLink className="nav-item nav-link" to="/Careers">   Careers  </NavLink>
                         </div>
+                        :  <div className="navbar-nav mx-lg-auto">
+                                <NavLink className="nav-item nav-link" to="/Candidates" >     Candidates   </NavLink>
+                                <NavLink className="nav-item nav-link" to="/Referrals">     Referrals   </NavLink>
+                                <NavLink className="nav-item nav-link" to="/Jobs">     Jobs   </NavLink>
+                        </div> }
                         <div className="d-flex align-items-lg-center mt-3 mt-lg-0">
-                        <NavLink className="btn btn-sm btn-outline-info login" exact to="/login">Login</NavLink>
+                          <NavLink className="btn btn-sm btn-outline-info login" exact to="/login">Login</NavLink>
                         </div>
                     </div>
                 </div>

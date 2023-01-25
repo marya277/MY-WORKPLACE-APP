@@ -1,0 +1,22 @@
+.h1 {
+    position: absolute;
+    width: 287px;
+    height: 42px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 42;
+}
+
+.text1{
+    position: center;
+    width: 1275px;
+    height: 56px;
+    left: 123px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 28px;
+    }

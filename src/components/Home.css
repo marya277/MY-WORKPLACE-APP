@@ -11,6 +11,7 @@
 
 .text1{
     position: center;
+    margin: 30px;
     width: 1275px;
     height: 56px;
     left: 123px;
@@ -20,3 +21,35 @@
     font-size: 24px;
     line-height: 28px;
     }
+
+.card {
+    width: 20rem;
+    margin: 100px;
+    position: center; 
+}
+
+.title{
+    margin:10px;
+}
+
+.content{
+    margin: 5px;
+    color:black;
+
+}
+
+.card-link{
+    position:unset;
+    margin: 10px;
+    color:blue;
+}
+
+.btn-secondary{
+    position:relative;
+    margin:10px;
+    width: 100px;
+    height: 50px;
+    left: 20px;
+    color:black;
+    border-color: black;
+}

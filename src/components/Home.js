@@ -20,8 +20,8 @@ export const Home = () => {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title " id="cardtitle">Senior Frontend Developer</h5>
-              <p className="card-text text-center">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
+              <h5 className="card-title text-end " id="cardtitle">Senior Frontend Developer</h5>
+              <p className="card-text text-end">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
               <a href="#" className="btn btn-primary">Refer</a>
               <a href="#" className="btn btn-primary">Apply</a>
               <a href="#" className=" card-link">View more</a>
@@ -31,8 +31,8 @@ export const Home = () => {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title" id="cardtitle">Senior Frontend Developer</h5>
-              <p className="card-text text-center">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
+              <h5 className="card-title text-end" id="cardtitle">Senior Frontend Developer</h5>
+              <p className="card-text text-end">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
               <a href="#" className="btn btn-primary">Refer</a>
               <a href="#" className="btn btn-primary">Apply</a>
               <a href="#" className="card-link">View More</a>
@@ -42,8 +42,8 @@ export const Home = () => {
       <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title" id="cardtitle">Senior Frontend Developer</h5>
-              <p className="card-text text-center">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
+              <h5 className="card-title text-end" id="cardtitle">Senior Frontend Developer</h5>
+              <p className="card-text text-end">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
               <a href="#" className="btn btn-primary">Refer</a>
               <a href="#" className="btn btn-primary">Apply</a>
               <a href="#" className="card-link">View More</a>
@@ -53,8 +53,8 @@ export const Home = () => {
       <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title" id="cardtitle">Senior Frontend Developer</h5>
-              <p className="card-text text-center">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
+              <h5 className="card-title text-end" id="cardtitle">Senior Frontend Developer</h5>
+              <p className="card-text text-end">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
               <a href="#" className="btn btn-primary">Refer</a>
               <a href="#" className="btn btn-primary">Apply</a>
               <a href="#" className=" card-link">View more</a>
@@ -64,8 +64,8 @@ export const Home = () => {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title" id="cardtitle">Senior Frontend Developer</h5>
-              <p className="card-text text-center">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
+              <h5 className="card-title text-end" id="cardtitle">Senior Frontend Developer</h5>
+              <p className="card-text text-end">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
               <a href="#" className="btn btn-primary">Refer</a>
               <a href="#" className="btn btn-primary">Apply</a>
               <a href="#" className=" card-link">View more</a>
@@ -75,8 +75,8 @@ export const Home = () => {
         <div className="col-sm-6">
           <div className="card">
             <div className="card-body">
-              <h5 className="card-title" id="cardtitle">Senior Frontend Developer</h5>
-              <p className="card-text text-center">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
+              <h5 className="card-title text-end" id="cardtitle">Senior Frontend Developer</h5>
+              <p className="card-text text-end">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
               <a href="#" className="btn btn-primary">Refer</a>
               <a href="#" className="btn btn-primary">Apply</a>
             </div>

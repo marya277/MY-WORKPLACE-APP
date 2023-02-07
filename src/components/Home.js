@@ -16,73 +16,22 @@ export const Home = () => {
             <a href="#" className="btn btn-danger">Product co-creation & blockchain </a>
         </nav>
     </h2>
-    <div className="row" style="max-width: 85rem;">
-        <div className="col-sm-6">
-          <div className="card">
-            <div className="card-body">
-              <h5 className="card-title text-end " id="cardtitle">Senior Frontend Developer</h5>
-              <p className="card-text text-end">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
-              <a href="#" className="btn btn-primary">Refer</a>
-              <a href="#" className="btn btn-primary">Apply</a>
-              <a href="#" className=" card-link">View more</a>
-            </div>
-          </div>
-        </div>
-        <div className="col-sm-6">
-          <div className="card">
-            <div className="card-body">
-              <h5 className="card-title text-end" id="cardtitle">Senior Frontend Developer</h5>
-              <p className="card-text text-end">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
-              <a href="#" className="btn btn-primary">Refer</a>
-              <a href="#" className="btn btn-primary">Apply</a>
-              <a href="#" className="card-link">View More</a>
-            </div>
-          </div>
-        </div>  
-      <div className="col-sm-6">
-          <div className="card">
-            <div className="card-body">
-              <h5 className="card-title text-end" id="cardtitle">Senior Frontend Developer</h5>
-              <p className="card-text text-end">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
-              <a href="#" className="btn btn-primary">Refer</a>
-              <a href="#" className="btn btn-primary">Apply</a>
-              <a href="#" className="card-link">View More</a>
-            </div>
-          </div>
-      </div>
-      <div className="col-sm-6">
-          <div className="card">
-            <div className="card-body">
-              <h5 className="card-title text-end" id="cardtitle">Senior Frontend Developer</h5>
-              <p className="card-text text-end">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
-              <a href="#" className="btn btn-primary">Refer</a>
-              <a href="#" className="btn btn-primary">Apply</a>
-              <a href="#" className=" card-link">View more</a>
-            </div>
-          </div>
-        </div>
-        <div className="col-sm-6">
-          <div className="card">
-            <div className="card-body">
-              <h5 className="card-title text-end" id="cardtitle">Senior Frontend Developer</h5>
-              <p className="card-text text-end">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
-              <a href="#" className="btn btn-primary">Refer</a>
-              <a href="#" className="btn btn-primary">Apply</a>
-              <a href="#" className=" card-link">View more</a>
-            </div>
-          </div>
-        </div>
-        <div className="col-sm-6">
-          <div className="card">
-            <div className="card-body">
-              <h5 className="card-title text-end" id="cardtitle">Senior Frontend Developer</h5>
-              <p className="card-text text-end">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
-              <a href="#" className="btn btn-primary">Refer</a>
-              <a href="#" className="btn btn-primary">Apply</a>
-            </div>
-          </div>
-        </div>
-      </div>
+    <div class="card shadow">
+  <h5>Senior Frontend Developer</h5>
+    <p class="text-card">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p> 
+      <a href="Card link" class="link" >Card link</a>
+      <button><a href="botton-one" >Apply</a></button>
+      <button><a href="botton-two" >Refer</a></button>
+</div>
+<div class="card shadow">
+  <h5>Senior Frontend Developer</h5>
+    <p class="text-card">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p> 
+      <a href="Card link" class="link" >Card link</a>
+      <p>
+        <button><a href="botton-one" >Apply</a></button>
+        <button><a href="botton-two" >Refer</a></button>
+      </p>
+</div>
     </div>
   )
     

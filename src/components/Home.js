@@ -34,7 +34,10 @@ export const Home = () => {
       <div className="card">
         <div className="card-body">
           <h5 className="card-title">Senior Frontend Developer</h5>
-          <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
+          <p className="card-text">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
+            <p><a href="Card link" className="link text-end" >view more</a></p>
+            <button type="button" class="btn btn-light">Apply</button>
+            <button type="button" class="btn btn-light">Refer</button>
         </div>
       </div>
     </div>
@@ -42,7 +45,10 @@ export const Home = () => {
       <div className="card">
         <div className="card-body">
           <h5 className="card-title">Senior Frontend Developer</h5>
-          <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content.</p>
+          <p className="card-text">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
+            <p><a href="Card link" className="link text-end" >view more</a></p>
+            <button type="button" class="btn btn-light">Apply</button>
+            <button type="button" class="btn btn-light">Refer</button>
         </div>
       </div>
     </div>
@@ -50,16 +56,22 @@ export const Home = () => {
       <div className="card">
         <div className="card-body">
           <h5 className="card-title">Senior Frontend Developer</h5>
-          <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        </div>
+          <p className="card-text">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
+            <p><a href="Card link" className="link text-end" >view more</a></p>
+            <button type="button" class="btn btn-light">Apply</button>
+            <button type="button" class="btn btn-light">Refer</button>
+          </div>
       </div>
     </div>
     <div className="col">
       <div className="card">
         <div className="card-body">
           <h5 className="card-title">Senior Frontend Developer</h5>
-          <p className="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.</p>
-        </div>
+          <p className="card-text">We are looking for a highly capable Frontend Developer to work on web-based applications. You will be collaborating with international teams, designing components, and integrating data storage and protection solutions.</p>
+            <p><a href="Card link" className="link text-end" >view more</a></p>
+            <button type="button" class="btn btn-light">Apply</button>
+            <button type="button" class="btn btn-light">Refer</button>
+          </div>
       </div>
     </div>
   </div>

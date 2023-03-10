@@ -12,9 +12,9 @@ export const Home = () => {
     </div>
     <h2>
         <nav className="text-center cols-1 md-3 p-3 fs-5 g-4">
-        <a href="#" className="link">1. Product co-creation & blockchain </a>
-        <a href="#" className="link">2. Product Quality Automation</a>
-        <a href="#" className="link">3. Dedicated Product Team </a>
+        <a href="#" className="link">1. Product co-creation & blockchain  </a>
+        <a href="#" className="link"> 2. Product Quality Automation  </a>
+        <a href="#" className="link"> 3. Dedicated Product Team </a>
         </nav>
     </h2>
 
